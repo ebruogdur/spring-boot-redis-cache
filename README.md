@@ -1,5 +1,4 @@
 spring-boot-redis-cache
-Spring boot + Redis Cache
 
 Clone source code from git
 $ git clone https://github.com/ebruogdur/spring-boot-redis-cache.git
