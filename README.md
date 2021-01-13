@@ -1,4 +1,3 @@
-spring-boot-redis-cache
 
 Clone source code from git
 $ git clone https://github.com/ebruogdur/spring-boot-redis-cache.git
